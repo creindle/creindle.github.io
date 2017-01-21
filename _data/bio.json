@@ -53,7 +53,7 @@
   "skills": [
     {
       "name": "Technical Skills",
-      "level": "Test",
+      "level": "",
       "keywords": [
         "Algorithms",
         "AJAX",
@@ -79,7 +79,7 @@
         "SQL",
         "Ubuntu"
       ]
-    },
+    }
   ],
   "education": [
     {
