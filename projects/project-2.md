@@ -19,7 +19,7 @@ labels:
   - HTML
   - CSS
   - Jade/Pug
-summary: Hawaii Annual Code Challenge 2016 Finalist- Application to help homeless outreach teams efficiently respond to community referrals.
+summary: Hawaii Annual Code Challenge 2016 Finalist - Application to help homeless outreach teams efficiently respond to community referrals.
 ---
 
 - Clearly describe the problem you addressed
