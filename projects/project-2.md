@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/17.png
+image: images/17.jpg
 title: DevLeague For Homeless
 permalink: projects/DLforHomeless
 date: 2016
