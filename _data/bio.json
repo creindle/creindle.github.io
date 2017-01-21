@@ -5,7 +5,7 @@
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "creindle@hawaii.edu",
     "website": "https://creindle.github.io",
-    "summary": "Senior at University of Hawaii at Manoa. Graduate of DevLeague. Lead Instructor at Jr. DevLeague.",
+    "summary": "Senior at University of Hawaii at Manoa. \nGraduate of DevLeague. \nLead Instructor at Jr. DevLeague.",
     "location": {
       "address": "",
       "postalCode": "96819",
@@ -23,33 +23,9 @@
         "network": "linkedin",
         "username": "creindle",
         "url": "http://linkedin.com/in/christie-reindle"
-      },
-      {
-        "network": "instagram",
-        "username": "ohmydeerchristie",
-        "url": "http://instagram.com/ohmydeerchristie"
       }
     ]
   },
-  "interests": [
-    {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
   "skills": [
     {
       "name": "Technical Skills",
@@ -96,64 +72,24 @@
       "website": "http://jrdevleague.com/",
       "startDate": "2016-11-01",
       "endDate": "Present",
-      "summary": "Responsible for the development, evaluation and production of curriculum\nTeaching and mentoring students while fostering a fun and comfortable learning environment",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "summary": "Responsible for the development, evaluation and production of curriculum\nTeaching and mentoring students while fostering a fun and comfortable learning environment"
     },
     {
       "company": "Air Force Reserve Officer Training Corps",
       "position": "GMC Advisor",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
+      "startDate": "2012-08-01",
+      "endDate": "2014-05-01",
+      "summary": "Represented, oversaw, and ensured training of all new cadets to corps",
+      "Achievements": "March Cadet of the Month, Wau Kau Kong Scholarship Recipient, AFROTC Achievement Award, USAA Spirit Award"
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "organization": "Ka Pilina Mentor and Instructor",
+      "position": "Student Mentor",
+      "startDate": "2014-02-01",
+      "endDate": "2014-05-01",
+      "summary": "Connected with middle school and high school students to improve their knowledge of math concepts using educational technology"
     }
   ],
   "references": [
