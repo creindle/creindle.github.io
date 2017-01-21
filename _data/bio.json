@@ -5,14 +5,7 @@
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "creindle@hawaii.edu",
     "website": "https://creindle.github.io",
-    "summary": "Senior at University of Hawaii at Manoa. \nGraduate of DevLeague. \nLead Instructor at Jr. DevLeague.",
-    "location": {
-      "address": "",
-      "postalCode": "96819",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
+    "summary": "Senior at University of Hawaii at Manoa. Graduate of DevLeague. Lead Instructor at Jr. DevLeague.",
     "profiles": [
       {
         "network": "github",
@@ -28,8 +21,6 @@
   },
   "skills": [
     {
-      "name": "Technical Skills",
-      "level": "",
       "keywords": [
         "Algorithms",
         "AJAX",
