@@ -42,4 +42,4 @@ This model is sustainable because it is a simple form for users to be able to co
 
 Our team spoke to Kimo from IHS for information on their referral process, common emergencies outreach professionals respond to, how IHS utilizes data, how service providers other than IHS respond to and receive referrals, how IHS determines who is within their jurisdiction to aid the homeless, and what their current database is like. Our team members also spoke to a current and a former case manager at IHS, and other service providers from other agencies who work with the homeless on their perspectives of what they would find useful for their field work.
 
-Source: <a href="https://github.com/creindle/devleagueforhomeless"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/creindle/devleagueforhomeless"><i class="large github icon"></i>DevLeague For Homeless</a>
