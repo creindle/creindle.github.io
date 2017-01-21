@@ -53,9 +53,9 @@
   "skills": [
     {
       "name": "Technical Skills",
-      "level": " ",
+      "level": "Test",
       "keywords": [
-        "Algorithsm",
+        "Algorithms",
         "AJAX",
         "Bootstrap"
         "C",
