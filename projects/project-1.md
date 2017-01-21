@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/styles-for-hue.jpg
+image: images/styles-for-hue.png
 title: Styles For Hue
 permalink: projects/styles-for-hue
 date: 2016
