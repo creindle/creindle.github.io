@@ -1,15 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Christie Reindle",
+    "label": "Full Stack Software Developer",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "email": "creindle@hawaii.edu",
+    "website": "https://creindle.github.io",
+    "summary": "Senior at University of Hawaii at Manoa. Graduate of DevLeague. Lead Instructor at Jr. DevLeague.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96819",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,23 +16,18 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "creindle",
+        "url": "http://github.com/creindle"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "creindle",
+        "url": "http://linkedin.com/in/christie-reindle"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "ohmydeerchristie",
+        "url": "http://instagram.com/ohmydeerchristie"
       }
     ]
   },
@@ -58,57 +52,59 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Technical Skills",
       "level": "",
       "keywords": [
+        "Algorithsm",
+        "AJAX",
+        "Bootstrap"
         "C",
         "C++",
+        "CSS",
+        "Common Lisp",
+        "Emacs Lisp",
+        "Express.js",
+        "Git",
+        "Github",
+        "HTML",
+        "HTML5",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Network Security",
+        "Node.js",
+        "PHP",
+        "PostgreSQL",
+        "React.js",
+        "SASS",
+        "SQL",
+        "Ubuntu"
       ]
     },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "endDate": "Spring 2017"
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Jr. DevLeague Academy",
+      "position": "Lead Instructor",
+      "website": "http://jrdevleague.com/",
+      "startDate": "2016-11-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Responsible for the development, evaluation and production of curriculum\nTeaching and mentoring students while fostering a fun and comfortable learning environment",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "Air Force Reserve Officer Training Corps",
+      "position": "GMC Advisor",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
