@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Christie Reindle",
-    "label": "Full Stack Software Developer",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "label": "Full Stack Developer",
+    "picture": "../images/main.JPG",
     "email": "creindle@hawaii.edu",
     "website": "https://creindle.github.io",
     "summary": "Senior at University of Hawaii at Manoa. Graduate of DevLeague. Lead Instructor at Jr. DevLeague.",
@@ -19,6 +19,23 @@
       }
     ]
   },
+  "interests": [
+    {
+      "name": "Teaching future developers"
+    },
+    {
+      "name": "Learning and teaching new technologies"
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Square Enix"
+      ]
+    },
+    {
+      "name": "Hiking"
+    }
+  ],
   "skills": [
     {
       "Name": "Languages and Frameworks",
