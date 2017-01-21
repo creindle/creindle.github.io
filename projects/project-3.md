@@ -20,5 +20,5 @@ My role in the development of the game was implenting the event handlers for use
 
 I learned how quickly I am able to create a project, how I act under pressure, that I am able to come up with working code quickly, and the limits of myself.
 
-Source: <a href="https://sogalutira.github.io/nodeknockout2016-looksgood/"><i class="large github icon ">Word Garden</i></a>
+Source: <a href="https://sogalutira.github.io/nodeknockout2016-looksgood/"><i class="large github icon "></i>Word Garden<</a>
 
