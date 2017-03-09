@@ -23,6 +23,7 @@ The first issue that I had with manipulating the photo in the header of the appl
 Eventually, I was able to fix this by placing the image source in a different area!
 
 ## One Meteor Problem That You Still Need To Fix
-The problem that still bothers me to this day is one that many students have; the build portion of Meteor runs very slowly. This is an issue that bothers me because, when they're surprised at how quickly I finish the class exercises and ask me how I do it, I simply tell them that I have a new laptop.
+The problem that still bothers me to this day is one that many students have; the build portion of Meteor runs very slowly. This is an issue that bothers me because, when they're surprised at how quickly I finish the class exercises and ask me how I do it, I simply tell them that I have a new laptop. This answer dissatisfies me because I do not feel that I truly understand the issues that the students have. This is still one that I would need to search for answers for.
 
 ## Final Note
+I would also love to be knowledgeable in the details of the installation processes on these systems: Linux, Windows, and Mac.
