@@ -17,8 +17,8 @@ The first Meteor problem that I've encountered during the Digits portion was man
 ## One Meteor Problem That You Had That You've Fixed
 The first issue that I had with manipulating the photo in the header of the application was due to my lack of fine detail in the overall application. Also, it was due to my lack of knowledge of understanding how exactly the framework of Meteor comes together. The way that I solved this was rewatching the tutorial on the placement of the code to manipulate the header. I initially placed the image of the file in a different directory, rather than the one in the tutorial. This displayed my image below the header and created a subsection next to the title page rather than display the image through the entire page.
 
-<img width="100%" src="../images/issue1.png">_Tutorial_
-<img width="100%" src="../images/issue2.png">_My Implementation_
+<img class="ui fluid image" src="../images/issue1.png">_Tutorial_
+<img class="ui fluid image" src="../images/issue2.png">_My Implementation_
 
 Eventually, I was able to fix this by placing the image source in a different area!
 
