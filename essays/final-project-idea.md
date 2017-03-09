@@ -8,26 +8,32 @@ labels:
   - Meteor
 ---
 
+_Collaborator_ : Evan Yasaka
+
 ## Overview
 
 _The Problem_ : All the Dance Dance Revolution (DDR) machines are gone! And college students love to play DDR!
 
-_The Solution_ :
+_The Solution_ : Create a mobile version of the popular DDR game! Using Meteor!!
+
+To use this application, students must use their UH login to access the game that will keep track of their scores. There will be leaderboards to boost the students self-esteem. They may be terrible in the classroom, but they're awesome at dancing (finger-dancing)! There are many facets of a student and this shows one of them. Having many students on this application will create a fun, competetive environment, just like how the arcades used to be!
 
 ## Mockup page ideas
 Some possible mockup pages include:
-* 
-* 
-
-The first Meteor problem that I've encountered during the Digits portion was manipulating the photo in the header of the application. The second problem that I've encountered was not my own, but another students problem. The reason why I see this as a problem of my own is that it is an issue that I would like to solve, as I find fixing others issues show how knowledgeful I am with the material myself.
+* Title Page
+* Login Page
+* Leaderboard Page
+* Stats Page
+* Selection of Music Page
+* Game Window Page
 
 ## Use case ideas
-The first issue that I had with manipulating the photo in the header of the application was due to my lack of fine detail in the overall application. Also, it was due to my lack of knowledge of understanding how exactly the framework of Meteor comes together. The way that I solved this was rewatching the tutorial on the placement of the code to manipulate the header. I initially placed the image of the file in a different directory, rather than the one in the tutorial. This displayed my image below the header and created a subsection next to the title page rather than display the image through the entire page.
-
-Eventually, I was able to fix this by placing the image source in a different area!
+Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
+* New user goes to title page, login page, selection of music page, game window page
+* Player goes to title page, stats page, leaderboard page
 
 ## Beyond the basics
-The problem that still bothers me to this day is one that many students have; the build portion of Meteor runs very slowly. This is an issue that bothers me because, when they're surprised at how quickly I finish the class exercises and ask me how I do it, I simply tell them that I have a new laptop. This answer dissatisfies me because I do not feel that I truly understand the issues that the students have. This is still one that I would need to search for answers for.
-
-## Final Note
-I would also love to be knowledgeable in the details of the installation processes on these systems: Linux, Windows, and Mac.
+After implementing the basic functionality, here are ideas for more advanced features:
+* Text message interface to send notification of who beat your score
+* Rating system
+* Different difficulties
