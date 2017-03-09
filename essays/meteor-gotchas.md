@@ -8,15 +8,17 @@ labels:
   - Meteor
 ---
 
-## Two Meteor Problems That You've Encountered
+## Introduction
+The purpose of this segment "Meteor Gotchas" is to demonstrate my growth and address the issues that I've encountered when using Meteor as full-stack developing platform. I will specifically address the issues I encountered when recreating the application "Digits".
+
+## Overview of the Issues
+The first Meteor problem that I've encountered during the Digits portion was manipulating the photo in the header of the application. The second problem that I've encountered was not my own, but another students problem. The reason why I see this as a problem of my own is that it is an issue that I would like to solve, as I find fixing others issues show how knowledgeful I am with the material myself.
 
 ## One Meteor Problem That You Had That You've Fixed
-It is almost hitting midnight, the team is on their last stretch before the project is due. Everyone is jamming as quickly as they can overlooking all the bugs in the program. It is the last week of a month long hackathon and the MVP of the application is barely getting reached as each developer is slowly losing steam. Everyone is pushing their code up to GitHub, the changes are overlapping each other, but there is just one thing missing. The team moves to their last stretch and it was up to me to integrate the main functionality of our entire application. The question was asked...<br>
-**Functionality** or **Design**? What do you want to do next, Christie? <br>
-"I HATE CSS, I totally don't want to design the page! I choose functionality!"<br>
+The first issue that I had with manipulating the photo in the header of the application was due to my lack of fine detail in the overall application. Also, it was due to my lack of knowledge of understanding how exactly the framework of Meteor comes together. The way that I solved this was rewatching the tutorial on the placement of the code to manipulate the header. I initially placed the image of the file in a different directory, rather than the one in the tutorial. This displayed my image below the header and created a subsection next to the title page. 
 
 ## One Meteor Problem That You Still Need To Fix
-At that moment, my team was participating in the first Hawaii Annual Coding Challenge and we were exhaused. Our application reached the minimum viable product by being fully functional, but our team lost in its entirety due to the lack of design. We blamed our loss to not having a designer, but I was given the choice of using an UI Framework. As I saw the other team in our company work with just raw HTML and CSS, I initially felt that I would cheat myself if I used a UI framework instead. Because of this, I postponed integrating the design into our application as I thought it would be easy since it wasn't raw HTML and CSS. This was absolutely not the case and I was not even able to startup the base template. I was so frustrated because I underestimated the power of UI frameworks.
+The problem that still bothers me to this day was one, 
 
 ## On That Note
 By the way, the team that won the competition used Ionic, a HTML5 mobile app development framework. From their site: <br>
