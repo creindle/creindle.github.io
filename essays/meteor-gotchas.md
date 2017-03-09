@@ -8,7 +8,9 @@ labels:
   - Meteor
 ---
 
-## One Meteor Problem that You Had That You've Fixed
+## Two Meteor Problems That You've Encountered
+
+## One Meteor Problem That You Had That You've Fixed
 It is almost hitting midnight, the team is on their last stretch before the project is due. Everyone is jamming as quickly as they can overlooking all the bugs in the program. It is the last week of a month long hackathon and the MVP of the application is barely getting reached as each developer is slowly losing steam. Everyone is pushing their code up to GitHub, the changes are overlapping each other, but there is just one thing missing. The team moves to their last stretch and it was up to me to integrate the main functionality of our entire application. The question was asked...<br>
 **Functionality** or **Design**? What do you want to do next, Christie? <br>
 "I HATE CSS, I totally don't want to design the page! I choose functionality!"<br>
