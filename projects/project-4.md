@@ -29,7 +29,8 @@ As this final project was a compliation of what we learned from the class, I kne
 <h1>Project Details</h1>
 Our project was a modification of the assignment portion of Laulima, a Learning & Collaboration Server for the University of Hawaii. We specifically targeted this area as we saw an opportunity to turn each assignment into a quest. This is similar to how massively multiplayer online games (MMO) are played. Turning each assignment into a quest, allowing the student to become a player, and pinning the students against each other based on score give a drive for players to finish their assignments and succeed in school. Since our shared love was for Final Fantasy and I was in charge of styling, I tailored our page in likeness to Final Fantasy Tactics<br><img src="/images/fft.png">.
 
-You can see our deployed website at [Manoa Quest](http://manoaquest.meteorapp.com/)
+<h1>Finished Product</h1>
+Within a month, our team completed the project and reached our stretch goals of having a leaderboard system. Please see our deployed website at [Manoa Quest](http://manoaquest.meteorapp.com/).
 
 
 
